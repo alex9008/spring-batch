@@ -1,0 +1,2 @@
+-Dinput.file=csv/bulkrefund2da-1-500.csv
+-Doutput.file=staging/refund2da-replace-1-500.csv
